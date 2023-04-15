@@ -1,6 +1,6 @@
 # Setup
 title: 不倦
-description: 私人空间
+description: 网站尚未建全，勿乱点
 url: https://qushunyu.github.io
 avatar: /gwen.JPG
 paginate: 5
@@ -28,7 +28,7 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-# twitter:
+ twitter:
   username: 不倦
   card: summary
 logo: logo.png

@@ -28,7 +28,7 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
- twitter:
+twitter:
   username: 不倦
   card: summary
 logo: logo.png
